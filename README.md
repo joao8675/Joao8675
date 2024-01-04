@@ -1,5 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif)]()
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joao8675&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joao8675&theme=blueberry&hide_border=true)<br/>
