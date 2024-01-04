@@ -1,3 +1,6 @@
+![Pixelart GIF - Pixelart - Discover   Share GIFs](https://github.com/joao8675/Joao8675/assets/62406945/81e14f23-dea0-4c08-9f5d-1c68be7f2984)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joao8675&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joao8675&theme=blueberry&hide_border=true)<br/>
