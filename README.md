@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/originals/9f/b0/e9/9fb0e9a48e6b312f4725d9497d31c46a.gif](https://i.pinimg.com/originals/1b/b9/08/1bb90899170e8e1c2a8888dce944bd99.gif))]()
+[![MasterHead](https://i.pinimg.com/originals/1b/b9/08/1bb90899170e8e1c2a8888dce944bd99.gif)]()
 
 
 # 📊 GitHub Stats:
